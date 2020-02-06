@@ -5,6 +5,6 @@
   <li>One way data flow</li>
   <li>States</li>
   <li>Life Cycle methods</li>
-    <ul> 
-  learnt how to deploy static web apps on github pages    
+   <ul> 
+    <p> learnt how to deploy static web apps on github pages </p>   
 
