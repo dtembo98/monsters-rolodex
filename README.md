@@ -6,4 +6,5 @@
   <li>States</li>
   <li>Life Cycle methods</li>
     <ul> 
+  learnt how to deploy static web apps on github pages    
 
