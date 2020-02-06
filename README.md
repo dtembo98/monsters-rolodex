@@ -6,5 +6,5 @@
   <li>States</li>
   <li>Life Cycle methods</li> </ul>
   
-<p> learnt how to deploy static web apps on github pages </p>   
+<p> learnt how to deploy static web apps on github pages ,you can view this project by clicking the link [Monsters Rolodex](https://duckduckgo.com)</p>   
 
